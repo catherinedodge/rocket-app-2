@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: "rocket-to-the-moon-app"
   description: "Meditation timer plugin for Backstage"
+  annotations:
+    github.com/project-slug: catherinedodge/rocket-app-2
 spec:
   type: service
   owner: user:guest
