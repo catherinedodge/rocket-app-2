@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "rocket-to-the-moon-app"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
