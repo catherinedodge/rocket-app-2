@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "rocket-to-the-moon-app"
+  description: "Meditation timer plugin for Backstage"
 spec:
   type: service
   owner: user:guest
